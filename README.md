@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nimapouryousef
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning web applications
